@@ -9,7 +9,7 @@ Apusovellus Darts-pelin (501/301) pistelaskuun. Pelaajien ei tarvitse laskea pis
 
 - Tuplavaatimus – Varmistaa asetuksista riippuen, että voitto tulee tuplalla (esim. 40 pistettä → tupla 20)
 
-- Bustaus – Jos pisteet menevät alle nollan tai jäljelle jää 1 piste, vuoro siirtyy toiselle pelaajalle
+- Bustaus – Jos pisteet menevät alle nollan tai jäljelle jää 1 piste, heitto nollaantuu ja vuoro siirtyy toiselle pelaajalle
 
 - Voittolaskuri – Näyttää pelaajalle, millä yhdistelmällä pelin voi voittaa
 
@@ -19,7 +19,7 @@ Apusovellus Darts-pelin (501/301) pistelaskuun. Pelaajien ei tarvitse laskea pis
 
 
 **Käynnistys:**
-1. Avaa Main.java – Käynnistä sovellus päätiedostosta
+1. Suorita main.java koodieditorissa – Käynnistä sovellus päätiedostosta
 
 2. Syötä pelaajien nimet ja aloita peli
 
